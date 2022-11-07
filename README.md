@@ -8,7 +8,7 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
-# Presentations on Dec 6:
+# Presentations on Dec 6: (10m+q/a)
   - Animal Detection
   - Terrain Mapping
   - Clickbait Detection
@@ -16,14 +16,28 @@
   - Cardiac Health
   - Travel Recommendations
   - Steam Reviews Analysis
+  - Camera analysis
+  - league_winrate_calculator
+  - AI Book
 
-# Presentations on Dec 1:
+# Presentations on Dec 1: (9m+q/a)
   - Password Analysis
   - NFL Upset Prediction
   - Social Media Sentiment
+  - UTK Research Computing Job Trace and Storage Analysis
+  - NBA Analytics
+  - Science Fiction Analysis
+  - Solar Panel Readings Analysis and Prediction
+  - Ages and Attitudes Towards Terror
+  - Federated Learning
+  - Baseball Over the Years
+  - Genre Popularity
 
 # Presentations on Nov 29:
+  - ???
 
+# Class on Nov 8
+  - MP3D 
 
 # Class on Nov 3
   - Q/A
