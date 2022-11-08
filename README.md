@@ -38,6 +38,7 @@
 
 # Class on Nov 8
   - MP3D 
+  - Q/A
 
 # Class on Nov 3
   - Q/A
