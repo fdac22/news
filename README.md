@@ -36,6 +36,10 @@
 # Presentations on Nov 29:
   - ???
 
+# Class on Nov 10
+   - Q/A
+   - MP3D due Nov 15
+
 # Class on Nov 8
   - MP3D 
   - Q/A
