@@ -8,7 +8,7 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
-# Presentations on Dec 6: (10m+q/a)
+# Presentations on Dec 6: (6m+q/a)
   - Animal Detection
   - Terrain Mapping
   - Clickbait Detection
@@ -19,8 +19,13 @@
   - Camera analysis
   - league_winrate_calculator
   - AI Book
+  - SPAM
+  - DDOS
+  - Whale locations
+  - Redit
+  - Car stats
 
-# Presentations on Dec 1: (9m+q/a)
+# Presentations on Dec 1: (8m+q/a)
   - Password Analysis
   - NFL Upset Prediction
   - Social Media Sentiment
@@ -32,6 +37,8 @@
   - Federated Learning
   - Baseball Over the Years
   - Genre Popularity
+  - Driving Stress Detection
+  - NBA Analytics
 
 # Presentations on Nov 29:
   - ???
