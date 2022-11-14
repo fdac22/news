@@ -41,7 +41,10 @@
   - NBA Analytics
 
 # Presentations on Nov 29:
-  - ???
+  - Work on presentations/reports unless at least one team volunteers to present 
+
+# Class on 15, 17, 22
+  - Work on presentations/reports
 
 # Class on Nov 10
    - Q/A
