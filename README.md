@@ -24,6 +24,7 @@
   - Whale locations
   - Redit
   - Car stats
+  - NFL Game Prediction
 
 # Presentations on Dec 1: (8m+q/a)
   - Password Analysis
