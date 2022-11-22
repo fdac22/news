@@ -30,7 +30,7 @@
   - Password Analysis
   - NFL Upset Prediction
   - Social Media Sentiment
-  - UTK Research Computing Job Trace and Storage Analysis
+  - Premire Leage Prediction
   - NBA Analytics
   - Science Fiction Analysis
   - Solar Panel Readings Analysis and Prediction
@@ -42,7 +42,7 @@
   - NBA Analytics
 
 # Presentations on Nov 29:
-  - Work on presentations/reports unless at least one team volunteers to present 
+  - UTK Research Computing Job Trace and Storage Analysis
 
 # Class on 15, 17, 22
   - Work on presentations/reports
