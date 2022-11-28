@@ -42,6 +42,7 @@
   
 # Presentations on Nov 29:
   - UTK Research Computing Job Trace and Storage Analysis
+  - Reddit Analysis
 
 # Class on 15, 17, 22
   - Work on presentations/reports
