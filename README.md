@@ -39,8 +39,7 @@
   - Baseball Over the Years
   - Genre Popularity
   - Driving Stress Detection
-  - NBA Analytics
-
+  
 # Presentations on Nov 29:
   - UTK Research Computing Job Trace and Storage Analysis
 
