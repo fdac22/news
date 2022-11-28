@@ -22,7 +22,6 @@
   - SPAM
   - DDOS
   - Whale locations
-  - Redit
   - Car stats
   - NFL Game Prediction
 
