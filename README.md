@@ -38,6 +38,7 @@
   - Baseball Over the Years
   - Genre Popularity
   - Driving Stress Detection
+  - League of Legends Build Calculator
   
 # Presentations on Nov 29:
   - UTK Research Computing Job Trace and Storage Analysis
