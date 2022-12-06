@@ -21,7 +21,7 @@
   - AI Book
   - SPAM
   - DDOS
-  - Whale locations
+  - ~~Whale locations~~ Salary Prediction
   - Car stats
   - NFL Game Prediction
 
